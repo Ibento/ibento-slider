@@ -1,0 +1,24 @@
+{
+  "name": "ibento-slider",
+  "version": "1.0.0",
+  "description": "Ibento Slider is a javascript slider written in jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibento/ibento-slider.git"
+  },
+  "keywords": [
+    "slider",
+    "jquery",
+    "ibento"
+  ],
+  "author": "Øyvind Dahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ibento/ibento-slider/issues"
+  },
+  "homepage": "https://github.com/Ibento/ibento-slider#readme"
+}
